@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DevfinanceApplication<devfinance>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.jonathanamarante.devfinance.DevfinanceApplication",
+            "projectName": "devfinance",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
