@@ -1,4 +1,4 @@
-# Dev Finances
+# Dev Finance
 <img src="./img.png" style="margin:0 0 8px 0;">
 Este é um projeto fullstack, que envolve a criação e consumo de uma API de controle financeiro, onde é possível cadastrar, editar e excluir transações e ver o saldo de entrada e saída. Foi desenvolvido como uma maneira de colocar em prática o que aprendi durante o curso de Java da COD3R e do curso de ReactJS da Origamid
 
